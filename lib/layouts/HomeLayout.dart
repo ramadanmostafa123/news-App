@@ -19,7 +19,7 @@ class HomeLayOut extends StatelessWidget {
         return Scaffold(
           appBar: AppBar(
             title: Text(
-              'مبرمج خصيصا للحاج مصطفى أبوحامد',
+              'news app',
               style: TextStyle(fontSize: 10),
             ),
             centerTitle: true,
